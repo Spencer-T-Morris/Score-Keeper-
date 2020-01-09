@@ -24,3 +24,11 @@ button:active{
 .green{
     color: green;
 }
+.content{
+    margin-left: 39%;
+    margin-top: 10%;
+}
+.form-group{
+    padding: 2%;
+    margin:1%;
+} 
